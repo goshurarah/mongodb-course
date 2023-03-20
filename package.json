@@ -1,0 +1,21 @@
+{
+  "name": "mongodb",
+  "version": "1.0.0",
+  "description": "mongodb-mongoose-crud-schemas-validations-aggregations",
+  "main": "crud_using_mongodb.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/goshurarah/mongodb-course"
+  },
+  "author": "gos hurarah",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^5.1.0",
+    "mongoose": "^7.0.2",
+    "validator": "^13.9.0"
+  }
+}
